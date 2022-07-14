@@ -488,7 +488,7 @@ select {
 /*     Header     */
 /******************/
 .header {
-	padding-top: 8rem;
+	padding-top: 5rem;
 	padding-bottom: 5rem;
 	text-align: center;
 }
@@ -525,13 +525,13 @@ select {
 /*     Services     */
 /********************/
 .cards-1 {
-	padding-top: 5rem;
-	padding-bottom: 2.5rem;
+	padding-top: 4rem;
+	padding-bottom: 1.5rem;
 }
 
 .cards-1 .card {
 	margin-bottom: 5rem;
-	padding: 3rem 2rem;
+	padding: 3rem 1rem;
 	border: 1px solid #5e6576;
 	border-radius: 20px;
 	background-color: transparent;
@@ -570,11 +570,11 @@ select {
 }
 
 .cards-1 .card-title {
-	margin-bottom: 1.125rem;
+	margin-bottom: 0.125rem;
 }
 
 .cards-1 .card-body p {
-	margin-bottom: 1.125rem;
+	margin-bottom: 0.125rem;
 }
 
 .cards-1 .list-unstyled {
@@ -1512,7 +1512,7 @@ select {
 	/* Header */
 	.header {
 		overflow: hidden;
-		padding-top: 18.25rem;
+		padding-top: 15.25rem;
 		padding-bottom: 11.5rem;
 	}
 
