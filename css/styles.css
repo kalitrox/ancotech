@@ -57,7 +57,7 @@ h2 {
 	color: #222222;
 	font-weight: 700;
 	font-size: 2rem;
-	line-height: 2.625rem;
+	line-height: 5.625rem;
 	letter-spacing: -0.4px;
 }
 
@@ -525,7 +525,7 @@ select {
 /*     Services     */
 /********************/
 .cards-1 {
-	padding-top: 4rem;
+	padding-top: 0rem;
 	padding-bottom: 1.5rem;
 }
 
@@ -1213,7 +1213,7 @@ select {
 	
 	/* General Styles */
 	.h2-heading {
-		width: 35.25rem;
+		width: 39.25rem;
 		margin-right: auto;
 		margin-left: auto;
 	}
