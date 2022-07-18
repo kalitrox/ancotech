@@ -1512,7 +1512,7 @@ select {
 	/* Header */
 	.header {
 		overflow: hidden;
-		padding-top: 15.25rem;
+		padding-top: 16.25rem;
 		padding-bottom: 11.5rem;
 	}
 
@@ -1532,12 +1532,12 @@ select {
 
 	/* Services */
 	.cards-1 .card {
-		width: 342px;
+		width: 345px;
 	}
 	
 	.cards-1 .card:nth-of-type(3n+2) {
-		margin-right: 2.5rem;
-		margin-left: 2.5rem;
+		margin-right: 0.0rem;
+		margin-left: 0.0rem;
 	}
 	/* end of services */
 
